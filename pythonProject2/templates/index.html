@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<title>SAMPLE PYTHON FORMS</title>
+
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+	<script src = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+	<meta charset="UTF-8">
+
+
+</head>
+<body style="background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); overflow-x: hidden;">
+
+	<div class="p-div" style="width: 50%; height: 50vh; padding: 30px; padding-left: 50px; margin: auto; margin-top: 140px; background: white;  box-shadow: 2px 2px 21px;">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-mg-12">
+					<h2>LOGIN VIA FLASK</h2>
+
+				</div>
+
+				<form action="http://127.0.0.1:5000/login" method="post">
+			<div class="row" style="margin-bottom: 10px;">
+				<div class="col-md-6">
+					<label>User Name</label>
+					<input type="text" name="name" class="form-control" placeholder="Enter your username" required>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<!--input field for password is just for design purpose only-->
+
+					<label>Password</label>
+					<input type="password" name="psw" class="form-control" placeholder="Enter random password" required>
+				</div>
+			</div>
+
+
+			<div class="row" style="margin-top: 1%">
+				<div class="col-md-6">
+
+					<p style="text-align: right;"><button type="submit" name="login" class="btn btn-primary" >Sign in</button></p>
+
+				</div>
+			</div>
+
+
+
+
+
+		</form>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</body>
+</html>
