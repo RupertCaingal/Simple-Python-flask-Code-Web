@@ -41,7 +41,7 @@ This code is part of our activity. It shows here how html file or webpage works 
 
 3. hit the sign in button
 #### web browser output:
-![](https://github.com/RupertCaingal/Simple-Python-flask-code/blob/main/webb-ss2.png)
+![](https://github.com/RupertCaingal/Simple-Python-flask-code/blob/main/web-ss2.png)
 
 
 
