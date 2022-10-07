@@ -36,4 +36,5 @@ This code is part of our activity. It shows here how html file or webpage works 
  
 2. you will be redirected on our html forms, just type your name and hit the sign in button, don't worry about the password input, it is just for design purpose
 
-
+#### web browser output:
+https://github.com/RupertCaingal/Simple-Python-flask-code/blob/main/webb-ss.png
