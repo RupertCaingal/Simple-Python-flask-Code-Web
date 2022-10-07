@@ -18,7 +18,7 @@ This code is part of our activity. It shows here how html file or webpage works 
 
 1 You can just run it directly to your IDE or
 
-2. Go to your cmd and enter the command: 'path/directory/ python main.py'
+2. Go to your cmd and enter the command: 'python main.py' make sure that you are in the right directory on when you save the main.py
 
 #### OUTPUT OF THE PROGRAM:
 * Serving Flask app 'main' (lazy loading)
