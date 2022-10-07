@@ -34,7 +34,26 @@ This code is part of our activity. It shows here how html file or webpage works 
 
 1. Click or paste the linke provided by your code --> #### http://127.0.0.1:5000/ 
  
-2. you will be redirected on our html forms, just type your name and hit the sign in button, don't worry about the password input, it is just for design purpose
+2. you will be redirected on our html forms, just type your name , don't worry about the password input, it is just for design purpose
 
 #### web browser output:
-https://github.com/RupertCaingal/Simple-Python-flask-code/blob/main/webb-ss.png
+![](https://github.com/RupertCaingal/Simple-Python-flask-code/blob/main/webb-ss.png)
+
+3. hit the sign in button
+#### web browser output:
+![](https://github.com/RupertCaingal/Simple-Python-flask-code/blob/main/webb-ss2.png)
+
+
+
+
+
+
+
+
+## ALL DONE
+
+That's it, I hope this sample flask program will help you to have an idea on how python flask works as a backend programming language.
+Kepp on motivating yourself, keep on practicising, keep on learning. 
+
+### See you around on my next sample projects, peace!!
+
