@@ -28,3 +28,12 @@ This code is part of our activity. It shows here how html file or webpage works 
  * Debug mode: off
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+## RUN
+
+### TO SEE THE RUNNING OUTPUT IN THE BROWSER:
+
+1. Click or paste the linke provided by your code --> #### http://127.0.0.1:5000/ 
+ 
+2. you will be redirected on our html forms, just type your name and hit the sign in button, don't worry about the password input, it is just for design purpose
+
+
